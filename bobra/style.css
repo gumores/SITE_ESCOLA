@@ -1,35 +1,10 @@
 *{ margin: 0;padding: 0;}
 body{background-color: gray;}h1{text-align: center;font-size: 40px;
-font-weight: bold; background-color: darkgray;}
-p{
-    text-align: center;
-    font-size: 30px;
-} 
-h2{
-    padding: 50px;
-    text-align: center;
-    font-size: 35px;
-    background-color: darkgray;
-}
-table{
-    width: 20%;
-    border: 1px black solid;
-}   
-tr{
-    border: 1px black solid;
-}   
-th{
-    border: 1px black solid;
-}  
-img{
-    width: 120%;
-    padding: 0 30px 0 0;
-}
-.pneu{
-    display: flex;
-    justify-content:space-evenly;}
-.preços{
-    display: flex;
-    justify-content:space-evenly;
+font-weight: bold; background-color: darkgray;}p{   text-align: center;   font-size: 30px;} h2{    padding: 50px;    text-align: center;    font-size: 35px;
+    background-color: darkgray;}table{   width: 20%;   border: 1px black solid;}   
+tr{   border: 1px black solid;}   th{   border: 1px black solid;}  img{    width: 120%;    padding: 0 30px 0 0;
+}.pneu{display: flex;
+justify-content:space-evenly;}
+.preços{ display: flex; justify-content:space-evenly;
     font-weight: bold;
 }
